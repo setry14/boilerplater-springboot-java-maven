@@ -16,7 +16,7 @@ Follow these steps to install this app:
 ## Launch Locally
 
 To launch the app key in this command 
--	Open cloned repo in Eclipse IDE and then just simply RunAs > Spring Boot App
+-	Open cloned repo in Spring Tool Suite IDE and then just simply RunAs > Spring Boot App
 -	In browser key in the URL as http://localhost:8080/students
 
 
